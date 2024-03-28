@@ -10,4 +10,3 @@ PySimpleGUI
 快速开始！
 1、确保安装好Python
 2、安装 PySimpleGUI
-  python -m pip 安装 pysimplegui
