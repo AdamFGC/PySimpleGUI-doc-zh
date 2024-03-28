@@ -5,7 +5,7 @@ PySimpleGUI 中文文档 &amp; 教程
 
 官网链接：[www.pysimplegui.com](https://www.pysimplegui.com/)
 
-PySimpleGUI 
+PySimpleGUI 使用 Python 快速、轻松地创建图形用户界面 (GUI)！
 
 快速开始！
 
@@ -13,3 +13,5 @@ PySimpleGUI
 
 2、安装 PySimpleGUI
 
+```
+python -m pip 安装 pysimplegui
