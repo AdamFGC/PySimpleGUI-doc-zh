@@ -1,0 +1,29 @@
+site_name: PySimpleGUI-doc-zh
+
+#主题配置
+theme:
+  name: readthedocs
+#  custom_dir: overrides #定制目录，同名覆盖
+#  palette: #颜色配置
+#    primary: indigo #主题颜色
+#    accent: deep orange #强调文字颜色
+#  language: zh #语言
+#  features:
+#    - navigation.top #tab页展示方式 顶部
+#    - header.autohide #表头自动隐藏
+
+
+#repo_url: https://github.com/AdamFGC/PySimpleGUI-doc-zh.git
+#repo_name:
+
+#plugins:
+#  - search
+#  - file-structure
+
+#pages:
+#  -"index": index.md
+#  -"about": about.md
+
+
+#dev_addr: 0.0.0.0:8000
+
